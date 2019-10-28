@@ -1,3 +1,7 @@
+'''
+New Update 28-10-2019
+'''
+
 
 import sys
 import json
@@ -25,6 +29,7 @@ import time
 from datetime import datetime
 
 from PyQt5.QtCore import QTime
+
 
 class window(QMainWindow):
 
