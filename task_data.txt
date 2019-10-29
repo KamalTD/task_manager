@@ -39,8 +39,8 @@
             "Dead_Line": "Mon Oct 28 2019 || 18:48:18",
             "Date": "Mon Oct 28 2019",
             "Note": "vvvvvvvvvvvvvvvvvvvvvvvv",
-            "Done": 0,
-            "Status": "True"
+            "Status": "True",
+            "Done": 0
         }
     ],
     "dddddddddd": [
@@ -50,8 +50,8 @@
             "Dead_Line": "Mon Oct 28 2019 || 18:51:14",
             "Date": "Mon Oct 28 2019",
             "Note": "dddddddddddddddd",
-            "Done": 0,
-            "Status": "True"
+            "Status": "True",
+            "Done": 0
         }
     ]
 }
